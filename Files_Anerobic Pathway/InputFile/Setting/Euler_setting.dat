@@ -1,0 +1,29 @@
+1.0
+20
+1.0e-12
+
+//   double sub_div	The number of the sub-division used to calculate an actual stepsize used in the Euler method;
+		      	the stepsize is calculated by dividing t_samp (the sampling time set in the integration.dat file) by sub_div.
+//   int Euler_trymax   The maximum number of iteration in the Newton-Raphson method, which is used to find solutions at the next step 
+			in the calculation by the Euler method.
+//   double Euler_eps   A value in a criterion used to judge if the Newton-Raphson iteration has converged.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

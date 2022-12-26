@@ -1,0 +1,27 @@
+100.0
+
+//    sub_div: 	The number of the sub-division used to calculate an actual stepsize used in the Runge-Kutta method;
+		the stepsize is given by dividing t_samp (the sampling time set in the integration.dat file) by sub_div.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

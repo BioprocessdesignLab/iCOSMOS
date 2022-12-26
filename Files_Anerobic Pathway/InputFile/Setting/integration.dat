@@ -1,0 +1,32 @@
+0.0
+1000000.0
+0.1
+1.0e-4
+
+//    double t_start: Start time in integration.
+//    double t_end: End time in integration.
+//    double t_samp: Interval time for sampling and then saving calculated values.
+//    double Integ_re: A value in a criterion used to judge if one should discontinue integration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

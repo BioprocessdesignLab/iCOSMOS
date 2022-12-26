@@ -1,0 +1,6 @@
+Setting (Euler):  Integ_re <Relative error>	  1.000000000000000e-04
+Setting (Euler): t_samp <D>	  1.000000000000000e-01
+Setting (Euler): h (t_samp / sub_div) <d>	  1.000000000000000e-01
+Setting (Euler): sub_div	  1.000000000000000e+00
+Setting (Euler): Euler_trymax	20
+Setting (Euler): Euler_eps	  1.000000000000000e-12

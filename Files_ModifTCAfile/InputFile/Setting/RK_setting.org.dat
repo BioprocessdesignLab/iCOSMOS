@@ -1,0 +1,14 @@
+1000.0
+
+//	double	sub_div      //** Sub-devision (the stepsize actually used for the calculation is given as t_samp/sub_div)
+
+
+//************************************************************************//
+	<t_samp       //** Time interval for data sampling>
+
+
+//##[☆効率化iCOSMOS(S-system解法)(Complex)(ただのTCA)(1000のとき)1e-4まで(OK20180704確認releaseで)] <2017/11/02付けのequation.h> の式を正しく修正し、計算し直し(20180928)##
+//##	t_start  0.0   //** Start time
+//##	t_end    1000.0   //** End time
+//##	t_samp   0.1    //** Time interval for data sampling
+//##	sub_div  100.0    //** Sub-devision (the stepsize actually used for the calculation is given as t_samp/sub_div)

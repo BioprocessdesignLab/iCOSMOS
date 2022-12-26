@@ -1,0 +1,10 @@
+1.0e-15
+1.0e-14
+1.0e-14	
+
+//    double nvf_eps = 1.0e-15:  A value in a criterion used to judge if kinetic orders calculated are numerically zero.
+//    double gj_eps = 1.0e-14: 	 A value in a criterion used to judge if the determinant of a matrix is numerically equal 
+				 to zero in the calculation of a reverse matrix. 
+//    double t_end_eps =1.0e-14: A value in a criterion used to judge if calculation has reached the maximum calculation time 
+				(steadystate_time) in order to discontinue the calculation of the Runge-Kutta or Euler method. 
+

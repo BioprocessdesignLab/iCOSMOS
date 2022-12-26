@@ -1,0 +1,8 @@
+20
+1.0e-12
+1.0e+8
+
+
+//	int trymax = 20;			//**S-system解法の繰り返し回数のMaxの値
+//	double Ssys_eps = 1.0e-12;		//**S-system解法の判定条件
+//	double steadystate_time = 1.0e+8;	 //**時刻。このときには定常状態に確実に達しているものと仮定。steady()とsensitivity()で使用。式中に時間tが含まれている場合に対処するため。

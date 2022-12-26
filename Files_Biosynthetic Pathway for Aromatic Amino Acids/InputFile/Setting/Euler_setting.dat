@@ -1,0 +1,10 @@
+1.0
+20
+1.0e-12
+
+//	double sub_div      	//** Sub-devision (the stepsize actually used for the calculation is given as t_samp/sub_div)
+//	int Euler_trymax	//** Euler_trymax
+//	douuble Euler_eps	//** Euler_eps
+
+//************************************************************************//
+	<t_samp       //** Time interval for data sampling>

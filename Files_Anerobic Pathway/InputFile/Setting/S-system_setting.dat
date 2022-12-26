@@ -1,0 +1,31 @@
+20
+1.0e-12
+1.0e+8
+
+
+//    int_trymax: 	A maximum number of iteration in the S-system root-finding method. 
+//    Ssys_eps: 	A value in a criterion of convergence in the S-system root-finding method. 
+//    steadystate_time: A maximum value of calculation time; 
+			if the calculation time exceeds this value, the calculation is immediately terminated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

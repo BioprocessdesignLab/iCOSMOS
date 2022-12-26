@@ -1,0 +1,29 @@
+1.0e-12
+1.0e-5
+
+
+//    double h_min: 	A minimum value of stepsize;
+			the stepsize is automatically changed in this integration method and a maximum value of the stepsize
+			is set equal to t_samp.
+
+//    double RKF_epsiron: An error tolerance of calculated values.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

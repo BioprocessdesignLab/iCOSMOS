@@ -1,0 +1,31 @@
+Calculating true steady-state metabolite concentrations & sensitivity
+
+Integration start:  1.308420218000000e+09
+Setting (RK):  Integ_re <Relative error>	  1.000000000000000e-04
+Setting (RK): t_samp <D>	  1.000000000000000e-01
+Setting (RK): h (t_samp / sub_div) <d>	  1.000000000000000e-03
+Setting (RK): sub_div	  1.000000000000000e+02
+Integration end:  1.308421359000000e+09
+Integration took   1.141000000000000e+03 count [  1.141000000000000e+00 sec].
+
+Steady-State Calculation start:  1.308421359000000e+09
+Steady-State Calculation end:  1.308421578000000e+09
+Steady-State Calculation end took   2.190000000000000e+02 count [  2.190000000000000e-01 sec].
+
+Sensitivity Calculation start:  1.308421593000000e+09
+Sensitivity Calculation end:  1.308421921000000e+09
+Sensitivity Calculation end took   3.280000000000000e+02 count [  3.280000000000000e-01 sec].
+
+'gmasystem_finalwrite' start:  1.308421937000000e+09
+'gmasystem_finalwrite' end:  1.308421953000000e+09
+'gmasystem_finalwrite' end took   1.600000000000000e+01 count [  1.600000000000000e-02 sec].
+
+Eigenvalue Calculation start:  1.308421953000000e+09
+Eigenvalue Calculation end:  1.308421984000000e+09
+Eigenvalue Calculation end took   3.100000000000000e+01 count [  3.100000000000000e-02 sec].
+
+Total Calculation took   1.735000000000000e+03 count [  1.735000000000000e+00 sec].
+'sensitivity_excel_write' start:  1.308422000000000e+09
+'sensitivity_excel_write' end:  1.308422015000000e+09
+'sensitivity_excel_write' end took   1.500000000000000e+01 count [  1.500000000000000e-02 sec].
+

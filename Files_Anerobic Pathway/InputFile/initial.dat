@@ -1,0 +1,62 @@
+1
+
+5 9 8
+
+1
+1
+1
+1
+1
+
+19.700
+68.500
+31.700
+49.900
+3440.000
+14.310
+203.000
+25.100
+0.042
+
+1	-1	0	0	0	0	0	0
+0	1	-1	-1	0	0	0	0
+0	0	1	0	-1	-1	0	0
+0	0	0	0	2	0	-1	0
+0	-1	-1	-1	2	0	1	-1
+
+
+//Number assigned to select an integration method.
+0: when not used
+1: explicit Runge-Kutta method.
+2: explicit Runge-Kutta-Fehlberg method.
+3.: implicit Euler method.
+
+//Total number of dependent variables.
+Total number of independent variables.
+Maximum number of local fluxes.
+
+
+//Initial values arbitrarily set for an integration method to obtain initial guesses that are used to determine steady-state dependent concentrations by the S-system root-finding method.
+X1
+X2 
+ ˸ 
+ ˸
+Xnー1
+Xn
+
+//Values of independent variables
+Xn+1
+Xn+2 
+ ˸ 
+ ˸
+Xn+m-1
+Xn+m
+
+//Stoichiometric coefficients of flux expressions in each differential equation
+ 
+(The values of influx and efflux are set to 1 and -1, respectively.)
+
+
+
+
+//(dependent variables) (fluxes: influx 1;efflux -1;)

@@ -1,0 +1,7 @@
+Setting (RK):  Integ_re <Relative error>	  1.000000000000000e-04
+Setting (RK): t_samp <D>	  1.000000000000000e-01
+Setting (RK): h (t_samp / sub_div) <d>	  1.000000000000000e-03
+Setting (RK): sub_div	  1.000000000000000e+02
+step total (RK)	64100
+Runge-Kutta method [sec]:	  2.453000000000000e+00
+

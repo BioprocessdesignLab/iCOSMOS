@@ -1,0 +1,7 @@
+1.0e-15
+1.0e-14
+1.0e-14	
+
+//	double nvf_eps = 1.0e-15;	//sensitivity()で使用。GMA-system型式中の反応次数をカウントするのに使用。(ほとんど変えなくて良い)
+//	double gj_eps = 1.0e-14; 	//gj()とgj2()の判定に使用。ほぼゼロになっていると見なす。(ほとんど変えなくて良い)
+//	double t_end_eps = 1.0e-14; 	//timecourseRK()とtimecourseEuler()の判定終了に使用。t_endに時刻が限りなく近いと見なす。(ほとんど変えなくて良い)
